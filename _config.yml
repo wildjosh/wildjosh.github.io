@@ -28,7 +28,7 @@ twitter_username: JoshWild18
 github_username:  wildjosh
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
