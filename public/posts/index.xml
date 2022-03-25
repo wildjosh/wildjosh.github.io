@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Azure and more!</title>
+        <link>https://joshops.co.uk/posts/</link>
+        <description>All Posts | Azure and more!</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>me@joshuawild.co.uk (Josh Wild)</managingEditor>
+            <webMaster>me@joshuawild.co.uk (Josh Wild)</webMaster><lastBuildDate>Tue, 22 Feb 2022 09:25:37 &#43;0000</lastBuildDate><atom:link href="https://joshops.co.uk/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Welcome!</title>
+    <link>https://joshops.co.uk/first_post/</link>
+    <pubDate>Tue, 22 Feb 2022 09:25:37 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://joshops.co.uk/first_post/</guid>
+    <description><![CDATA[Welcome to my new blogging site - joshops.co.uk. I’ll be blogging all about Azure, PowerShell, a bit of C#, and anything else I find interesting along the way.
+Follow me on [Twitter(https://twitter.com/JoshWild18)] to keep up to date with all new posts.
+The aim is to have at least 1 post per week, but life may get in the way of that!]]></description>
+</item></channel>
+</rss>
