@@ -4,16 +4,25 @@
         <link>https://joshops.co.uk/</link>
         <description>A blog about Azure and more!</description>
         <generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>me@joshuawild.co.uk (Josh Wild)</managingEditor>
-            <webMaster>me@joshuawild.co.uk (Josh Wild)</webMaster><lastBuildDate>Tue, 22 Feb 2022 09:25:37 &#43;0000</lastBuildDate>
+            <webMaster>me@joshuawild.co.uk (Josh Wild)</webMaster><lastBuildDate>Wed, 15 Feb 2023 20:15:19 &#43;0000</lastBuildDate>
             <atom:link href="https://joshops.co.uk/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Azure AD Pod Identity</title>
+    <link>https://joshops.co.uk/aadpodidentity/</link>
+    <pubDate>Wed, 15 Feb 2023 20:15:19 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://joshops.co.uk/aadpodidentity/</guid>
+    <description><![CDATA[Azure Active Directory Pod Identity
+Hi! I&rsquo;m Josh, a Cloud Engineer working at a consultancy in Manchester, UK.
+I&rsquo;ve been meaning to write on this site for a while, but never really found the time or motivation to do so. With the new year now in full swing, I&rsquo;ve been inspired by various people in the Azure community (Gregor Suttie, Gwyneth Peña-Siguenza to name a few) to finally make a start.]]></description>
+</item><item>
     <title>Welcome!</title>
     <link>https://joshops.co.uk/first_post/</link>
-    <pubDate>Tue, 22 Feb 2022 09:25:37 &#43;0000</pubDate>
+    <pubDate>Fri, 03 Feb 2023 09:25:37 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://joshops.co.uk/first_post/</guid>
-    <description><![CDATA[Welcome to my new blogging site - joshops.co.uk. I’ll be blogging all about Azure, PowerShell, a bit of C#, and anything else I find interesting along the way.
-Follow me on [Twitter(https://twitter.com/JoshWild18)] to keep up to date with all new posts.
+    <description><![CDATA[Welcome to my new blogging site - joshops.co.uk. I’ll be blogging all about Azure and anything else I find interesting along the way.
+Follow me on Twitter to keep up to date with all new posts.
 The aim is to have at least 1 post per week, but life may get in the way of that!]]></description>
 </item></channel>
 </rss>

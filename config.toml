@@ -414,7 +414,7 @@ theme = "LoveIt"
     enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
-      message = ""
+      message = "This website uses cookies to improve your experience."
       dismiss = ""
       link = ""
 
