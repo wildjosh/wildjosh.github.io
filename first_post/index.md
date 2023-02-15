@@ -1,7 +1,7 @@
 # Welcome!
 
 
-Welcome to my new blogging site - joshops.co.uk. I’ll be blogging all about Azure, PowerShell, a bit of C#, and anything else I find interesting along the way.
+Welcome to my new blogging site - joshops.co.uk. I’ll be blogging all about Azure and anything else I find interesting along the way.
 
 Follow me on [Twitter](<https://twitter.com/JoshWild18>) to keep up to date with all new posts.
 
